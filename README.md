@@ -1,8 +1,8 @@
 Demo: https://english-text-web-win-sdl3-c.netlify.app/
 
-MinGW GCC 11.2 on [Mediafire](https://www.mediafire.com/file/wqf5m5o2wyamjaa/mingw1120_64-571mb.zip/file) or on [TeraBox](https://1024terabox.com/s/1QsVUUu0e5p7uJSvpR5ECIA) (zip - 182.3 MB, unzipped - 571 MB). This version of MinGW was taken from Qt 6.6.3
+[MinGW GCC 11.2](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.2.0-14.0.0-9.0.0-ucrt-r7/winlibs-x86_64-posix-seh-gcc-11.2.0-mingw-w64ucrt-9.0.0-r7.zip)
 
-It was tested with emsdk 4.0.15
+It was tested with [Emscripten 4.0.15](https://emscripten.org/docs/getting_started/downloads.html).
 
 - SDL 3.1.6 -> [Download prebuilt](https://8observer8.bitbucket.io/prebuilt/mingw/11.2/sdl3/sdl-3.1.6.zip) (zip - 6.16 MB, unzipped - 19.0 MB)
 - SDL_image 3.1.0 -> [Download prebuilt](https://8observer8.bitbucket.io/prebuilt/mingw/11.2/sdl3/sdl3_image-3.1.0.zip) (zip - 513 KB, unzipped - 1.35 MB)
