@@ -1,3 +1,5 @@
+This example is old. Use a newer example: https://github.com/8Observer8/english-text-sdl3-3.3.4-c
+
 Demo: https://english-text-web-win-sdl3-c.netlify.app/
 
 Free font file is used: https://github.com/liberationfonts/liberation-fonts/releases/tag/2.1.5
