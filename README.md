@@ -1,5 +1,7 @@
 Demo: https://english-text-web-win-sdl3-c.netlify.app/
 
+Free font file is used: https://github.com/liberationfonts/liberation-fonts/releases/tag/2.1.5
+
 [MinGW GCC 11.2](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.2.0-14.0.0-9.0.0-ucrt-r7/winlibs-x86_64-posix-seh-gcc-11.2.0-mingw-w64ucrt-9.0.0-r7.zip)
 
 It was tested with [Emscripten 4.0.15](https://emscripten.org/docs/getting_started/downloads.html).
